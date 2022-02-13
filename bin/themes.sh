@@ -1,4 +1,5 @@
 themes=(
+	brentCasper
 	casper
 	lyra
 )
